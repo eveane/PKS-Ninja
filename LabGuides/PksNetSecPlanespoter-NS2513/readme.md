@@ -93,7 +93,7 @@ kubectl create -f redis_and_adsb_sync_all_k8s.yaml
 </details>
 <br/>
 
-1.1.2 Login to the NSX Manager UI with `username: Admin` `password: VMware1!` and Navigate to the `Dashboard`. The dashboard makes it easy to identify any faults that NSX Manager is aware of and enable drilling down as needed by clicking on the displayed object
+1.1.2 Login to the NSX Manager UI with `username: admin` `password: VMware1!` and Navigate to the `Dashboard`. The dashboard makes it easy to identify any faults that NSX Manager is aware of and enable drilling down as needed by clicking on the displayed object
 
 <details><summary>Screenshot 1.1.2 </summary>
 <img src="../PksTroubleshooting-PT8251/Images/2018-11-12-21-53-43.png">
